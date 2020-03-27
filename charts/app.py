@@ -65,7 +65,6 @@ corona = GraphCorona(interval, country)
 
 dates = corona.get_dates()
 data = corona.get_data()
-print(data)
 
 if __name__ == '__main__':
     app.run(host='127.0.0.1', port=8080)
