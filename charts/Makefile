@@ -14,4 +14,4 @@ init:
 	pip install -r requirements.txt
 
 run:
-	python run app.py
+	python app.py
