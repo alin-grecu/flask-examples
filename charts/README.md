@@ -1,7 +1,7 @@
-## Run app.py
+## Run
 
 ```bash
-python app.py
+make init && make run
 ```
 
 ## Visit
